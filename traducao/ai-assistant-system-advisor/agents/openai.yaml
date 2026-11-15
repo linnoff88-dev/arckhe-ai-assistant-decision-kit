@@ -1,0 +1,8 @@
+# Tradução não-oficial em pt-BR.
+# Original: kit/ai-assistant-system-advisor/agents/openai.yaml (../../kit/ai-assistant-system-advisor/agents/openai.yaml) — vale o original.
+interface:
+  display_name: "AI Assistant System Advisor"
+  short_description: "Pesquise, compare e teste o setup certo de assistente"
+  default_prompt: "Use $ai-assistant-system-advisor para me entrevistar e recomendar o setup de assistente de IA menos disruptivo que se encaixa no meu trabalho."
+policy:
+  allow_implicit_invocation: true
